@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{273:function(n,e,t){"use strict";t.r(e);var l=t(1).a.extend({name:"IndexPage"}),o=t(43),component=Object(o.a)(l,(function(){var n=this,e=n._self._c;n._self._setupProxy;return e("NuxtLink",{attrs:{to:"blog"}},[n._v("\n  Блог\n")])}),[],!1,null,null,null);e.default=component.exports}}]);
